@@ -2,26 +2,26 @@
 
 ## 1. Target Overview
 
-- **Product Name:**
-- **Model / Variant:**
-- **Manufacturer:**
-- **Category:** (e.g., router, IoT device, appliance, controller)
-- **Target Type:**  
-  - [ ] Linux-based Embedded System  
-  - [ ] MCU-based Device  
+- Product Name:
+- Model / Variant:
+- Manufacturer:
+- Category: (e.g., router, IoT device, appliance, controller)
+- Target Type:
+  - [ ] Linux-based Embedded System
+  - [ ] MCU-based Device
   - [ ] Hybrid / Unknown
-- **Acquisition Source:** (purchase, client-provided, found, etc.)
-- **Date Acquired:**
-- **Investigator(s):**
+- Acquisition Source: (purchase, client-provided, found, etc.)
+- Date Acquired:
+- Investigator(s):
 
 ---
 
 ## 2. Legal & Ethical Considerations
 
-- **Ownership Verified:** ☐ Yes ☐ No
-- **Authorization to Reverse Engineer:** ☐ Yes ☐ No
-- **Applicable Laws / Restrictions:** (DMCA, regional laws, NDA, etc.)
-- **Notes:**
+- Ownership Verified: [ ] Yes [ ] No
+- Authorization to Reverse Engineer: [ ] Yes [ ] No
+- Applicable Laws / Restrictions: (DMCA, regional laws, NDA, etc.)
+- Notes:
 
 ---
 
@@ -37,13 +37,13 @@
 
 ### 3.2 FCC / Regulatory Sources
 
-- **FCC ID:**
-- **fcc.io / FCC Database Links:**
-- **Internal Photos Available:** ☐ Yes ☐ No
-- **External Photos Available:** ☐ Yes ☐ No
-- **Schematics Available:** ☐ Yes ☐ No
-- **Test Reports / Block Diagrams:**
-- **Notes from FCC Documents:**
+- FCC ID:
+- fcc.io / FCC Database Links:
+- Internal Photos Available: [ ] Yes [ ] No
+- External Photos Available: [ ] Yes [ ] No
+- Schematics Available: [ ] Yes [ ] No
+- Test Reports / Block Diagrams:
+- Notes from FCC Documents:
 
 ### 3.3 Online Intelligence
 
@@ -88,7 +88,7 @@
 ### 5.1 Major Components
 
 | Component | Manufacturer | Part Number | Function | Notes |
-|---------|--------------|-------------|----------|-------|
+|----------|--------------|-------------|----------|-------|
 | SoC / MCU | | | | |
 | Flash | | | | |
 | RAM | | | | |
@@ -100,7 +100,7 @@
 - Architecture: (ARM, MIPS, RISC-V, etc.)
 - Core(s):
 - Clock source:
-- Secure boot present: ☐ Yes ☐ No ☐ Unknown
+- Secure boot present: [ ] Yes [ ] No [ ] Unknown
 - TrustZone / Security features:
 
 ---
@@ -110,7 +110,7 @@
 ### 6.1 Identified Interfaces
 
 | Interface | Location | Voltage | Status | Notes |
-|---------|----------|---------|--------|-------|
+|-----------|----------|---------|--------|-------|
 | UART | | | | |
 | JTAG | | | | |
 | SWD | | | | |
@@ -121,7 +121,7 @@
 
 ### 6.2 Debug Access Findings
 
-- Console access: ☐ Yes ☐ No
+- Console access: [ ] Yes [ ] No
 - Authentication required:
 - Bootloader interaction:
 - Lock bits / fuses status:
@@ -162,7 +162,7 @@
 
 - Flash type:
 - Dump method:
-- Encryption detected: ☐ Yes ☐ No
+- Encryption detected: [ ] Yes [ ] No
 - Wear leveling:
 - Partitions identified:
 
@@ -191,7 +191,7 @@
 ## 11. Attack Surface Summary
 
 | Surface | Description | Risk Level | Notes |
-|-------|-------------|------------|-------|
+|---------|-------------|------------|-------|
 | Physical | | | |
 | Network | | | |
 | Firmware | | | |
@@ -239,7 +239,7 @@
 ## 16. Timeline / Activity Log
 
 | Date | Activity | Result | Notes |
-|----|----------|--------|-------|
+|------|----------|--------|-------|
 | | | | |
 
 ---
@@ -248,4 +248,4 @@
 
 - Summary:
 - Risk assessment: riscy
-- Recommendations: 
+- Recommendations:
